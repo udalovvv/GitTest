@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2913cdb8-8d31-420f-8eb6-455b98ca474e" name="Changes" comment="add test10" />
+    <list default="true" id="2913cdb8-8d31-420f-8eb6-455b98ca474e" name="Changes" comment="add test10">
+      <change afterPath="$PROJECT_DIR$/src/branch6/br6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +80,28 @@
       <option name="project" value="LOCAL" />
       <updated>1705180623529</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add test1000">
+      <created>1705182780719</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705182780719</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add test10000">
+      <created>1705182826548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705182826548</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add test100000">
+      <created>1705182899533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705182899533</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -103,7 +126,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="branch7" />
                       </list>
                     </value>
                   </entry>
@@ -119,6 +142,9 @@
     <MESSAGE value="add test2" />
     <MESSAGE value="add test3" />
     <MESSAGE value="add test10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test10" />
+    <MESSAGE value="add test1000" />
+    <MESSAGE value="add test10000" />
+    <MESSAGE value="add test100000" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test100000" />
   </component>
 </project>
