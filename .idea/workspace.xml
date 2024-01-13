@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2913cdb8-8d31-420f-8eb6-455b98ca474e" name="Changes" comment="add test3" />
+    <list default="true" id="2913cdb8-8d31-420f-8eb6-455b98ca474e" name="Changes" comment="add test10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="bb8ba64ee472117929609e06157ece8752208e15" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705179515510</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add test3">
+      <created>1705180487212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705180487212</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add test10">
+      <created>1705180623529</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705180623529</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -89,7 +103,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="test" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -104,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add test2" />
     <MESSAGE value="add test3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test3" />
+    <MESSAGE value="add test10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test10" />
   </component>
 </project>
