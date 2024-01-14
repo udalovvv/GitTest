@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2913cdb8-8d31-420f-8eb6-455b98ca474e" name="Changes" comment="add test1000000">
+    <list default="true" id="2913cdb8-8d31-420f-8eb6-455b98ca474e" name="Changes" comment="add test100000000">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +20,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705182899533</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add test100000000">
+      <created>1705211884320</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705211884320</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -130,7 +141,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="branch9" />
                       </list>
                     </value>
                   </entry>
@@ -146,6 +157,7 @@
     <MESSAGE value="add test2" />
     <MESSAGE value="add test3" />
     <MESSAGE value="add test10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test10" />
+    <MESSAGE value="add test100000000" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test100000000" />
   </component>
 </project>
